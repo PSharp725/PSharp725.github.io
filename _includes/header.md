@@ -1,1 +1,1 @@
-[About Me](README.md) | [Resume](resume.md)
+[About Me](/) | [Resume](/resume/)
