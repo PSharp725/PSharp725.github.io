@@ -9,5 +9,3 @@ permalink: /resume/
 test Resume
 
 
-{% include footer.md %}
-
