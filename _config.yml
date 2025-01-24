@@ -1,0 +1,15 @@
+# _config.yml - Basic Boilerplate
+# Site settings
+baseurl: "" # Leave blank for the root
+url: "https://username.github.io" # Replace 'username' with your GitHub username
+title: "Patrick's Personal Website"
+description: "Welcome to Patrick's personal website."
+author: "Patrick"
+
+# Markdown options
+markdown: kramdown
+highlighter: rouge
+
+theme: minima # A simple Jekyll theme
+plugins:
+  - jekyll-feed # Optional RSS feed plugin
