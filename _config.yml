@@ -2,8 +2,8 @@
 # Site settings
 baseurl: "" # Leave blank for the root
 url: "https://psharp725.github.io" 
-title: "Patrick's Personal Website"
-description: "Welcome to Patrick's personal website."
+title: "About Me"
+description: "Welcome to My Personal Website"
 author: "Patrick Sharp"
 
 # Markdown options

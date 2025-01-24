@@ -1,1 +1,1 @@
-Test Header
+[About Me](README.md) | [Resume](resume.md)
