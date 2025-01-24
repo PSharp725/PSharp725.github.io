@@ -1,8 +1,8 @@
 # _config.yml - Basic Boilerplate
 # Site settings
-baseurl: "" # Leave blank for the root
+baseurl: "" 
 url: "https://psharp725.github.io" 
-title: "About Me"
+title: "Patrick Sharp"
 description: "Welcome to My Personal Website"
 author: "Patrick Sharp"
 
@@ -10,7 +10,7 @@ author: "Patrick Sharp"
 markdown: kramdown
 highlighter: rouge
 
-theme: jekyll-theme-minimal  # A simple Jekyll theme
+theme: minima 
 plugins:
   - jekyll-feed # Optional RSS feed plugin
 
