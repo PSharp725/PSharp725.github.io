@@ -13,3 +13,11 @@ highlighter: rouge
 theme: jekyll-theme-minimal  # A simple Jekyll theme
 plugins:
   - jekyll-feed # Optional RSS feed plugin
+
+
+  # Navigation settings (optional)
+nav_links:
+  - name: "About Me"
+    link: "/"
+  - name: "Resume"
+    link: "/resume/"
