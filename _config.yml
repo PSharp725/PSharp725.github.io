@@ -1,10 +1,10 @@
 # _config.yml - Basic Boilerplate
 # Site settings
 baseurl: "" # Leave blank for the root
-url: "https://username.github.io" # Replace 'username' with your GitHub username
+url: "https://psharp725.github.io" 
 title: "Patrick's Personal Website"
 description: "Welcome to Patrick's personal website."
-author: "Patrick"
+author: "Patrick Sharp"
 
 # Markdown options
 markdown: kramdown
