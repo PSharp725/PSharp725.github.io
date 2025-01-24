@@ -10,6 +10,6 @@ author: "Patrick Sharp"
 markdown: kramdown
 highlighter: rouge
 
-theme: minima # A simple Jekyll theme
+theme: jekyll-theme-minimal  # A simple Jekyll theme
 plugins:
   - jekyll-feed # Optional RSS feed plugin
