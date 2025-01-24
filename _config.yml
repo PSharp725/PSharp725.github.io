@@ -1,16 +1,31 @@
 # _config.yml - Basic Boilerplate
 # Site settings
-baseurl: "" 
-url: "https://psharp725.github.io" 
+
+
 title: "Patrick Sharp's Personal Website"
 description: "Welcome to My Personal Website"
 author: "Patrick Sharp"
 
-# Markdown options
-markdown: kramdown
-highlighter: rouge
+theme: "minima"
 
-theme: minima 
-#plugins:
-#  - jekyll-feed # Optional RSS feed plugin
+rss: rss
+
+kramdown:
+  syntax_highlighter_opts:
+    disable: true
+    
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+titles_from_headings:
+  strip_title: true
+  collections: true
+
+defaults:
+  - scope:
+      path: ""
+      type: post
+    values:
+      tags: Other
 
