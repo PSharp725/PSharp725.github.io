@@ -1,9 +1,5 @@
 
 
-{% include header.md %} 
-
----
-
 # Hello, World!
 
 ---

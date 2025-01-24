@@ -1,1 +1,1 @@
-[About Me](/) | [Resume](/resume/)
+
