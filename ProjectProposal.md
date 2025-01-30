@@ -1,5 +1,5 @@
-
-# Building the Foundation for Game Engine Development
+# Project Proposal
+## Building the Foundation for Game Engine Development
 ## Vision Statement
 
 For this project, I propose focusing on **developing key technical skills essential for game engine development**. My long-term goal is to build a game engine, and I have been exploring various resources to determine the best way to begin this journey.
