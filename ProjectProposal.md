@@ -1,6 +1,8 @@
 # Project Proposal
+- - -
 ## Building the Foundation for Game Engine Development
-## Vision Statement
+- - -
+### Vision Statement
 
 For this project, I propose focusing on **developing key technical skills essential for game engine development**. My long-term goal is to build a game engine, and I have been exploring various resources to determine the best way to begin this journey.
 
@@ -20,13 +22,13 @@ To achieve this, I plan to:
 
 - **Build a structured learning approach** that can be expanded into future projects or professional work in game development.
 
-## Motivation
+### Motivation
 
 I have always been passionate about game development and have long aspired to build my own game engine. However, **a lack of foundational knowledge has been a significant barrier** preventing me from starting this journey. I want to ensure that I have a strong grasp of the core principles necessary to develop an engine that meets high-quality standards.
 
 Additionally, my current work primarily involves **Python**, and I see this project as an opportunity to **re-engage with a lower-level, strongly-typed, compiled language like C++**. Strengthening my proficiency in C++ will not only enhance my ability to work with performance-critical systems but also prepare me for the complex architectural challenges involved in game engine development.
 
-## Specific and Measurable Goals
+### Specific and Measurable Goals
 
 To ensure steady progress and accountability, I have outlined **specific and measurable learning objectives**:
 
@@ -40,7 +42,7 @@ To ensure steady progress and accountability, I have outlined **specific and mea
 
 - **Apply learned concepts by building a small prototype** demonstrating core game engine principles whenever feasible.
 
-## Risks to Project Completion 
+### Risks to Project Completion 
 
 - **Time Management:** Balancing coursework, work, and personal commitments may impact progress.
 
@@ -50,7 +52,7 @@ To ensure steady progress and accountability, I have outlined **specific and mea
 
 - **Motivation and Consistency:** Maintaining consistent progress across all learning objectives can be challenging.
 
-## Mitigation Strategy
+### Mitigation Strategy
 
 - - **Time Management:** Create a structured weekly schedule with dedicated study and coding time to ensure steady progress.
 
@@ -60,7 +62,7 @@ To ensure steady progress and accountability, I have outlined **specific and mea
 
  - **Motivation and Consistency:** Track progress using my **personal website** to document key takeaways, completed exercises, and insights.
 
-## Project Deliverables and Assessments
+### Project Deliverables and Assessments
 
 - **Documented LeetCode solutions** from my weekly problem-solving exercises.
 
@@ -86,7 +88,7 @@ To ensure steady progress and accountability, I have outlined **specific and mea
 | Week 14 | Chapters 15 (Intro to Gameplay Systems) and 16 (Runtime Gameplay Foundation Systems) of GEA                                                                   |
 | Week 15 | Submit Final Report                                                                                                                                           |
 
-## Project Portfolio
+### Project Portfolio
 All documentation, implementations, and insights will be hosted on my personal website:
 [Project Portfolio Link](https://psharp725.github.io/)
 
