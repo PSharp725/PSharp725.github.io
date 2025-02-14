@@ -29,3 +29,6 @@ defaults:
     values:
       tags: Other
 
+# Exclude LeetCode problem and solution markdown files from becoming pages
+exclude:
+  - assets/LeetCode/
