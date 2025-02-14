@@ -30,4 +30,4 @@ defaults:
       tags: Other
 
 keep_files:
-  - assets/LeetCode/
+- assets/LeetCode/
