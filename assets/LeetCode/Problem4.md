@@ -69,10 +69,10 @@ public:
         int n = nums2.size();
         int o = m + n;
 
-        vector<int> num_tot = nums1;
+        std::vector<int> num_tot = nums1;
         num_tot.insert(num_tot.end(), nums2.begin(), nums2.end());
 
-        sort(num_tot.begin(), num_tot.end());
+        std::sort(num_tot.begin(), num_tot.end());
 
         if (o % 2 == 1) {
             return static_cast<double>(num_tot[o / 2]);
@@ -85,4 +85,3 @@ public:
     </div>
 </body>
 </html>
-
