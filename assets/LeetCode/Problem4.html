@@ -69,14 +69,11 @@ public:
         int n = nums2.size();
         int o = m + n;
 
-        // Merge the two vectors
-        std::vector<int> num_tot = nums1;
+        vector<int> num_tot = nums1;
         num_tot.insert(num_tot.end(), nums2.begin(), nums2.end());
 
-        // Sort the merged vector
-        std::sort(num_tot.begin(), num_tot.end());
+        sort(num_tot.begin(), num_tot.end());
 
-        // Compute the median
         if (o % 2 == 1) {
             return static_cast<double>(num_tot[o / 2]);
         } else {
