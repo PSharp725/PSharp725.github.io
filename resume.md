@@ -27,7 +27,7 @@ permalink: /resume/
 
 ### **Biological Data Analyst Temp**  
 *Edgewise Therapeutics – Boulder, Colorado*  
-📅 *July 2024 – January 2025*  
+📅 *July 2024 – Present*  
 - HOLD
 
 ---
