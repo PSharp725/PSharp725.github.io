@@ -1,28 +1,17 @@
-# _config.yml - Basic Boilerplate for Minimal Mistakes
-
 title: "Patrick Sharp's Personal Website"
 description: "Welcome to My Personal Website"
 author: "Patrick Sharp"
 
-# Specify the Minimal Mistakes theme
-theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@5.9.0"
 
-# Minimal Mistakes specific configuration
-minimal_mistakes_skin: "default"  # Choose your preferred skin
-header:
-  overlay_color: "rgba(0, 0, 0, 0.5)"  # Example header overlay
-
-# Plugins configuration
 plugins:
   - jekyll-feed
   - jekyll-sitemap
 
-# Markdown options
 kramdown:
   syntax_highlighter_opts:
     disable: true
 
-# Optional: additional customizations
 titles_from_headings:
   strip_title: true
   collections: true
