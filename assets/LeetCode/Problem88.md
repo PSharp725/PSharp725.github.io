@@ -1,4 +1,11 @@
-## Merge Sorted Array
+---
+layout: default
+title: "LeetCode Problem 88"
+show_header: false
+---
+
+
+# Merge Sorted Array
 
 ### Problem Description
 
