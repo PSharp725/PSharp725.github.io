@@ -2,7 +2,7 @@ title: "Patrick Sharp's Personal Website"
 description: "Welcome to My Personal Website"
 author: "Patrick Sharp"
 
-remote_theme: "mmistakes/minimal-mistakes@5.9.0"
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 
 plugins:
   - jekyll-feed
