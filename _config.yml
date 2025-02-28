@@ -24,5 +24,4 @@ defaults:
     values:
       tags: Other
 
-keep_files:
-  - assets/LeetCode/
+
