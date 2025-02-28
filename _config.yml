@@ -7,6 +7,7 @@ remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-include-cache
 
 kramdown:
   syntax_highlighter_opts:
