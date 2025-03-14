@@ -24,12 +24,5 @@ defaults:
     values:
       tags: Other
 
-header_pages:
-  - index.md
-  - resume.md
-  - ProjectProposal.md
-  - LeetCode.md
 
-  exclude:
-  - "assets/LeetCode/*"
 
