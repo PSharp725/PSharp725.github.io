@@ -24,5 +24,12 @@ defaults:
     values:
       tags: Other
 
-keep_files:
-  - assets/LeetCode/
+header_pages:
+  - index.md
+  - resume.md
+  - ProjectProposal.md
+  - LeetCode.md
+
+  exclude:
+  - "assets/LeetCode/*"
+
