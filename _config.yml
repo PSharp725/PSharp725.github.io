@@ -1,33 +1,26 @@
-# Site settings
-title: "Patrick Sharp"
-description: "Portfolio and Projects"
-remote_theme: "just-the-docs/just-the-docs"
+title: "Patrick Sharp's Personal Website"
+description: "Welcome to My Personal Website"
+author: "Patrick Sharp"
 
- 
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-include-cache
 
- 
+kramdown:
+  syntax_highlighter_opts:
+    disable: true
 
-# Navigation settings
- 
+titles_from_headings:
+  strip_title: true
+  collections: true
 
-nav_order: 1
- 
+defaults:
+  - scope:
+      path: ""
+      type: post
+    values:
+      tags: Other
 
-header_pages:
-  - index.md
-  - resume.md
-  - ProjectProposal.md
-  - LeetCode.md
- 
-# Exclude unwanted files
- 
-
-exclude:
-  - "assets/LeetCode/*"
-  - "README.md"
-  - "Gemfile"
-  - "Gemfile.lock"
-
-# Search
-search_enabled: true
