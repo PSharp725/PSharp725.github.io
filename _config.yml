@@ -24,3 +24,12 @@ defaults:
     values:
       tags: Other
 
+
+  navigation:
+  - title: Resume
+    url: /resume
+  - title: Project Proposal
+    url: /ProjectProposal
+  - title: LeetCode
+    url: /LeetCode
+
