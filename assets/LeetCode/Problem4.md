@@ -1,7 +1,5 @@
 ---
-layout: single
 title: "LeetCode Problem 4"
-header: false
 ---
 
 

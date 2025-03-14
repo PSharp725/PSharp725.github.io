@@ -1,6 +1,5 @@
 ---
 title: LeetCode Solutions
-layout: single
 ---
 
 # LeetCode Solutions
