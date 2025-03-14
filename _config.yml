@@ -1,4 +1,33 @@
 # Site settings
 title: "Patrick Sharp"
 description: "Portfolio and Projects"
-remote_theme: "mmistakes/minimal-mistakes"
+remote_theme: "just-the-docs/just-the-docs"
+
+ 
+
+
+ 
+
+# Navigation settings
+ 
+
+nav_order: 1
+ 
+
+header_pages:
+  - index.md
+  - resume.md
+  - ProjectProposal.md
+  - LeetCode.md
+ 
+# Exclude unwanted files
+ 
+
+exclude:
+  - "assets/LeetCode/*"
+  - "README.md"
+  - "Gemfile"
+  - "Gemfile.lock"
+
+# Search
+search_enabled: true
