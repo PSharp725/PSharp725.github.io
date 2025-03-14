@@ -1,50 +1,40 @@
 # Site settings
-title: "Patrick Sharp's Personal Website"
-description: "Welcome to my portfolio and projects website."
-author: "Patrick Sharp"
+title: "Patrick Sharp"
+tagline: "Portfolio and Projects"
+description: "Showcasing my work, experience, and projects."
+url: "https://psharp725.github.io" # Update this with your GitHub Pages URL
+baseurl: "" # Leave blank unless hosting in a subdirectory
 
-# Use Minimal Mistakes remote theme
-remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+# Theme settings
+remote_theme: "cotes2020/jekyll-theme-chirpy" # Chirpy theme
+timezone: America/Denver
+lang: en
 
-# Plugins required by the theme
-plugins:
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-include-cache
-
-# Define pages that should appear in the navigation bar
+# Navigation: Define only the pages you want in the header
 header_pages:
   - index.md
   - resume.md
   - ProjectProposal.md
+  - LeetCode.md
 
-# Exclude certain files and directories from being processed
+# Exclude unwanted files from the site
 exclude:
-  - "LeetCode.md"          # Hide LeetCode solutions from site navigation
-  - "assets/LeetCode/*"    # Exclude all LeetCode-related attachments
+  - "assets/LeetCode/*"    # Hide LeetCode assets
   - "README.md"
   - "Gemfile"
   - "Gemfile.lock"
 
-# Navigation and UI settings
-minimal_mistakes_skin: "default"  # Choose a built-in theme style (e.g., "default", "dark", "air")
-search: true  # Enable search functionality
-permalink: pretty  # Make URLs more readable
+# Social Links (update these with your actual links)
+social:
+  github: PSharp725
+  linkedin: patrick-sharp-278123191
+  email: PatrickSharp725@gmail.com
 
-# Syntax highlighting settings
+# Enable search
+search: true
+
+# Enable syntax highlighting for code
 kramdown:
   syntax_highlighter_opts:
-    disable: true
-
-# Default metadata for posts (if applicable)
-defaults:
-  - scope:
-      path: ""
-    values:
-      layout: "single"
-      author_profile: true
-
-# Keep specific assets (like images and stylesheets)
-keep_files:
-  - "assets/"
+    disable: false
 
