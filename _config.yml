@@ -4,12 +4,5 @@ author: "Patrick Sharp"
 
 remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 
-header_pages:
-  - index.md
-  - resume.md
-  - ProjectProposal.md
-  - LeetCode.md
 
-  exclude:
-  - "assets/LeetCode/*"
 
