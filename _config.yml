@@ -1,43 +1,24 @@
 # Site settings
 title: "Patrick Sharp"
-tagline: "Portfolio and Projects"
-description: "Showcasing my work, experience, and projects."
-url: "https://psharp725.github.io" # Update this with your GitHub Pages URL
-baseurl: "" # Leave blank unless hosting in a subdirectory
+description: "Portfolio and Projects"
+theme: "just-the-docs"
 
-# Theme settings
-remote_theme: "cotes2020/jekyll-theme-chirpy" # Chirpy theme
-timezone: America/Denver
-lang: en
-
-# Navigation: Define only the pages you want in the header
+# Navigation settings
+nav_order: 1
 header_pages:
   - index.md
   - resume.md
   - ProjectProposal.md
-  - LeetCode.md
 
-# Exclude unwanted files from the site
+# Exclude unwanted files
 exclude:
-  - "assets/LeetCode/*"    # Hide LeetCode assets
+  - "LeetCode.md"
+  - "assets/LeetCode/*"
   - "README.md"
   - "Gemfile"
   - "Gemfile.lock"
 
-# Social Links (update these with your actual links)
-social:
-  github: PSharp725
-  linkedin: patrick-sharp-278123191
-  email: PatrickSharp725@gmail.com
+# Search
+search_enabled: true
 
-# Enable search
-search: true
-
-# Enable syntax highlighting for code
-kramdown:
-  syntax_highlighter_opts:
-    disable: false
-
-liquid:
-  error_mode: lax
 
