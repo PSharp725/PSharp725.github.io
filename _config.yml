@@ -1,8 +1,50 @@
+# Site settings
 title: "Patrick Sharp's Personal Website"
-description: "Welcome to My Personal Website"
+description: "Welcome to my portfolio and projects website."
 author: "Patrick Sharp"
 
+# Use Minimal Mistakes remote theme
 remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 
+# Plugins required by the theme
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-include-cache
 
+# Define pages that should appear in the navigation bar
+header_pages:
+  - index.md
+  - resume.md
+  - ProjectProposal.md
+
+# Exclude certain files and directories from being processed
+exclude:
+  - "LeetCode.md"          # Hide LeetCode solutions from site navigation
+  - "assets/LeetCode/*"    # Exclude all LeetCode-related attachments
+  - "README.md"
+  - "Gemfile"
+  - "Gemfile.lock"
+
+# Navigation and UI settings
+minimal_mistakes_skin: "default"  # Choose a built-in theme style (e.g., "default", "dark", "air")
+search: true  # Enable search functionality
+permalink: pretty  # Make URLs more readable
+
+# Syntax highlighting settings
+kramdown:
+  syntax_highlighter_opts:
+    disable: true
+
+# Default metadata for posts (if applicable)
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "single"
+      author_profile: true
+
+# Keep specific assets (like images and stylesheets)
+keep_files:
+  - "assets/"
 
