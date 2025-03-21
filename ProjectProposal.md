@@ -59,7 +59,7 @@ To ensure steady progress and accountability, I have outlined **specific and mea
 
 ### Mitigation Strategy
 
-- - **Time Management:** Create a structured weekly schedule with dedicated study and coding time to ensure steady progress.
+- **Time Management:** Create a structured weekly schedule with dedicated study and coding time to ensure steady progress.
 
 - **Technical Complexity:** Leverage additional resources such as **online courses, forums, and academic papers** to supplement learning.
 
