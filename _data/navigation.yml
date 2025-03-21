@@ -4,6 +4,8 @@ main:
     url: /proposal/
   - title: "LeetCode Solutions"
     url: /LeetCode/
+  - title: "Chapter Reflections"
+    url: /reflections/
   - title: "Resume"
     url: /resume/
   # - title: "About"
