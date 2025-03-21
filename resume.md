@@ -24,7 +24,7 @@ permalink: /resume/
 
 ## Experience
 
-### **Biological Data Analyst Temp**  
+### **Data Science Associate**  
 *Edgewise Therapeutics – Boulder, Colorado*  
 📅 *July 2024 – Present*  
 - HOLD
