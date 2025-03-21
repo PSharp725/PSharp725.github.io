@@ -1,5 +1,6 @@
 ---
 title: LeetCode Solutions
+permalink: /LeetCode/
 ---
 
 # LeetCode Solutions

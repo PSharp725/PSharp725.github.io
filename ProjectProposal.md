@@ -1,3 +1,8 @@
+---
+title: "Project Proposal"
+permalink: /proposal/
+---
+
 # Project Proposal
 - - -
 ## Building the Foundation for Game Engine Development
