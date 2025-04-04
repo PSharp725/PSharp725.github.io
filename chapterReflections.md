@@ -14,3 +14,6 @@ permalink: /reflections/
 ### By: Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides
 
 - [DP Chapter One Reflection](Chapter-Reflections/DPChapter1.md)
+
+- [DP Chapter Two Reflection](Chapter-Reflections/DPChapter2.md)
+
