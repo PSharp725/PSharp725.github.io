@@ -1,5 +1,5 @@
 ---
-title: "LeetCode Problem 2"
+title: "LeetCode Problem 2: Add Two Numbers"
 ---
 
 

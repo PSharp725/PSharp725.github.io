@@ -10,3 +10,5 @@ permalink: /LeetCode/
 - [Problem 4: Median of Two Sorted Arrays](/LeetCode/Problem4/)
 
 - [Problem 88: Merge Sorted Array](/LeetCode/Problem88/)
+
+- [Problem 62: Unique Paths](/LeetCode/Problem62/)

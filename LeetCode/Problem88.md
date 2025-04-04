@@ -1,5 +1,5 @@
 ---
-title: "LeetCode Problem 88"
+title: "LeetCode Problem 88: Merge Sorted Array"
 ---
 
 
