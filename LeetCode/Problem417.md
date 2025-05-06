@@ -96,7 +96,7 @@ public:
         int m = heights.size(), n = heights[0].size();
         ocean[i][j] = true;
 
-        vector<pair<int, int>> directions = {{0,1},{1,0},{0,-1},{-1,0}};
+        vector<pair<int, int>> directions = { {0,1},{1,0},{0,-1},{-1,0} };
         for (auto [dx, dy] : directions) {
             int x = i + dx;
             int y = j + dy;
