@@ -24,7 +24,11 @@ matrix = {
 };
 ```
 
-**Output:** `4`
+**Output:** 
+
+```
+4
+```
 
 **Explanation:** The longest increasing path is `[1, 2, 6, 9]`
 
@@ -57,7 +61,11 @@ matrix = {
 };
 ```
 
-**Output:** `1
+**Output:** 
+
+```
+1
+```
 
 ---
 
@@ -81,7 +89,7 @@ public:
         int m = matrix.size();
         int n = matrix[0].size();
         int maxLen = 1;
-        vector<pair<int, int>> directions = {{0,1}, {1,0}, {0,-1}, {-1,0}};
+        vector<pair<int, int>> directions = { {0,1}, {1,0}, {0,-1}, {-1,0} };
 
         for (auto [dx, dy] : directions) {
             int x = i + dx;
